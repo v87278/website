@@ -22,7 +22,7 @@
 		<junit.version>4.7</junit.version>
 		<tiles.version>2.2.2</tiles.version>
 		<aspectj.version>1.7.3</aspectj.version>
-		<java.version>1.7</java.version>
+		<java.version>1.8</java.version>
 		<theme>default</theme>
 	</properties>
 
